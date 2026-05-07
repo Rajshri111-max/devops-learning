@@ -26,11 +26,11 @@ This repository contains my daily notes, concepts, and hands-on practice.
 
 ## 📅 Daily Progress
 
-| Day   | Topic                        | Status      |
-| ----- | ---------------------------- | ----------- |
-| Day 1 | Internet & Networking Basics | ✅ Completed |
-| Day 2 | Coming Soon                  | ⏳           |
-
+| Day   | Topic                          | Status      |
+| ----- | ----------------------------   | ----------- |
+| Day 1 | Internet & Networking Basics   | ✅ Completed|
+| Day 2 | App Architecture & Tech Stack  | ✅ Completed|
+| Day 3 | In progress                    |    ⏳       |
 ---
 
 ## 📂 Repository Structure
