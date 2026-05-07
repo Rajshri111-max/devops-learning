@@ -105,7 +105,7 @@ Receiver:
 ---
 
 ## 🎯 Day -02 
- * App Architecture and stack
+ * App Architecture and stackS
 
 
 
