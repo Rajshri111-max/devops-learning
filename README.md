@@ -30,7 +30,8 @@ This repository contains my daily notes, concepts, and hands-on practice.
 | ----- | ----------------------------   | ----------- |
 | Day 1 | Internet & Networking Basics   | ✅ Completed|
 | Day 2 | App Architecture & Tech Stack  | ✅ Completed|
-| Day 3 | In progress                    |    ⏳       |
+| Day 3 | Application Ports              | ✅ Completed|
+| Day 4 | In progress                    |    ⏳       |
 ---
 
 ## 📂 Repository Structure
