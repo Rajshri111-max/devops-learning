@@ -1,4 +1,4 @@
-# 🚀 Day 2 - Appication Ports
+# 🚀 Day 3 - Appication Ports
 
 ## 📚 What I Learned 
 
